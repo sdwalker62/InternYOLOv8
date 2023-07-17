@@ -1,0 +1,23 @@
+names:
+- pip-1
+- pip-10
+- pip-11
+- pip-12
+- pip-2
+- pip-3
+- pip-4
+- pip-5
+- pip-6
+- pip-7
+- pip-8
+- pip-9
+nc: 12
+roboflow:
+  license: CC BY 4.0
+  project: double-twelve-dominoes
+  url: https://universe.roboflow.com/pip-tracker/double-twelve-dominoes/dataset/2
+  version: 2
+  workspace: pip-tracker
+test: test/images
+train: train/images
+val: valid/images
